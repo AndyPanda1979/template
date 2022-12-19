@@ -62,7 +62,7 @@
 			<groupId>org.springframework.cloud</groupId>
 			<artifactId>spring-cloud-stream</artifactId>
 			<scope>test</scope>
-			<classifier>test-binder</classifier>
+			<classifier>run-binder</classifier>
 			<type>test-jar</type>
 		</dependency>
 		<dependency>
